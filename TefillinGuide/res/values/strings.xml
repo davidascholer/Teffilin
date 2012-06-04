@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tefillin</string>
+    <string name="english_short">Blessing before putting on tefillin:\n\nBaruch atah Ado-nai, Elo-heinu melech haíolam, asher kideshanu bímitzvotav, vítzivanu líhaniach tefillin.\n\nSh\'ma prayer:\n\nShíma Yis-ra-eil, A-do-nai E-lo-hei-nu, A-do-nai E-chad.\n\nBa-ruch sheim kívod mal-chu-to lío-lam va-ed.\n\nVía-hav-ta eit A-do-nai E-lo-he-cha bíchawl líva-vícha u-víchawl naf-shícha, u-víchawl mío-de-cha. Víha-ya ha-díva-rim ha-ei-leh, a-sher a-no-chi mítsa-vícha ha-yom, al líva-ve-cha. Víshi-nan-tam lí-va-ne-cha, vídi-bar-ta bam, bíshiv-tícha bívei-te-cha, uv-lech-tícha va-de-rech, u-víshawch-bícha uv-ku-me-cha. Uk-shar-tam líot al ya-de-cha, víha-yu líto-ta-fot bein ei-ne-cha. Uch-tav-tam al mízu-zot bei-te-cha, u-vish-a-re-cha.</string>
+    <string name="english_full">Blessing before putting on tefillin:\n\nBaruch atah Ado-nai, El-heinu melech haíolam, asher kideshanu bímitzvotav, vítzivanu líhaniach tefillin.\n\nShma Prayer:\n\nShe-ma Yis-ro-el Ado-noy Elo-hay-nu Ado-noy Ech-od.\n\n(say in undertone)Bo-ruch Shaym ke-vod mal-chu-so-le-olom vo-ed.\n\nV-ohavto es Ado-noy Elo-he-cho b-chol l\'vov-cho u-v-chol naf\'sh\'cho u-v-chol m\'odecho. V-hoyu ha-d\'vorim ho-ayleh asher onochee m\'tzav\'cho ha-yom al l\'vovecho. V-shinantom l-vonecho, v-dibarto bomb-shivt\'cho b-vaysecha, u-v-lecht\'cha va-derech, u-v-shachb\'cho u-v-kumecho. U-k\'shartom l\'os al yodecho, v-hoyu le-to-to-fos bein Einecho. U-chsavtom al m\'zuzos baysecha u-vi-sho-recho.V-haya im shamoa tish\'mu el mitzvotai asher anochi m\'tzaveh etchem ha-yom, l-ahavah et Adonai Elohaychem, u-l-avdo b-chol l\'vavchem u-v-chol nafsh\'chem. V-natati m\'tar artzchem b-ito, yoreh u-malkosh; v-asafta d\'ganecha, v-tirosh\'cha v-yitzharecha. V-natati aysev b-sad\'cha li-b\'hem\'techa; v-achalta v-savata Hishamru lachem, pen yefteh l\'vavchem, v-sartem va-avadtem elohim achayrim, v-hishtachavitem lahem. V-charah af Adonai bachem, v-atzar et ha-shamayim v-lo yihyeh matar, v-ha-adama lo titayn et y\'vulah; va-avadtem m\'hayrah mayal ha-aretz ha-tovah asher Adonai notayn lachem. V-sam\'tem et d\'varai ayleh al l\'vavchem v\'al naf\'sh\'chem; u-kshartem otam l-ot al yedchem, v-hayu ltotafot bayn aynaycem. V-limadtem otam et b\'naychem l-daber bam b-shivt\'cha b-vaytecha, u-v-lecht\'cha baderech, u-v-shachb\'cha u-v-kumecha. -ch\'tavtam al m\'zuzot baytecha u-vi-sharecha. L\'ma\'an yirbu y\'maychem vi-y\'may v\'naychem al ha-adamah asher nishba Adonai la-avotaychem latayt lahem ki-y\'may ha-shamayim al ha-aretz. Vayomer Adonai el Moshes laymor. Daber el Mosheh laymor. Daber el b\'nay Yisrael v-amarta alayhem, v-asu lahem tzitzit al can\'fay vi-g\'dayhem l-dorotam, v-natnu al tzitzit ha-canaf ptil t\'chaylet. V-hayah lachem l-tzitzit, u-r\'iytem oto u-z\'chartem et kol mitzvot Adonai, va-asiytem otam v-lo taturu acharay l-vavchem v-acharay aynaychem, asher atem zonim acharaychem. L\'ma-an tiz\'k\'ru v-asitem et kol mitzvotai, vi-h\'yiytem k\'doshim laylohaychem. Ani Adonai Elohaychem, asher hotzaytiy etchem mayeretz Mitzrayim, li-h\'yot lahem laylohim. Ani Adonai Elohaychem. Emes.</string>
+    <string name="hebrew_short">‎בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו, וְצִוָּנוּ לְהָנִיחַ תְּפִלִּין
+\n\n
+‎שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד
+\n\n
+‎ברוך שם כבוד מלכותו לעולם ועד
+\n\n
+‎וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל לְבָבְךָ וּבְכָל נַפְשְׁךָ וּבְכָל מְאֹדֶךָ. וְהָיוּ הַדְּבָרִים הָאֵלֶּה אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם עַל לְבָבֶךָ. וְשִׁנַּנְתָּם לְבָנֶיךָ וְדִבַּרְתָּ בָּם בְּשִׁבְתְּךָ בְּבֵיתֶךָ וּבְלֶכְתְּךָ בַדֶּרֶךְ וּבְשָׁכְבְּךָ וּבְקוּמֶךָ. וּקְשַׁרְתָּם לְאוֹת עַל יָדֶךָ וְהָיוּ לְטֹטָפֹת בֵּין עֵינֶיךָ. וּכְתַבְתָּם עַל מְזוּזֹת בֵּיתֶךָ וּבִשְׁעָרֶיךָ. </string>
+    <string name="hebrew_full">‎בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו, וְצִוָּנוּ לְהָנִיחַ תְּפִלִּין
+\n\n
+‎שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד
+\n\n
+‎ברוך שם כבוד מלכותו לעולם ועד
+\n\n
+‎וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל לְבָבְךָ וּבְכָל נַפְשְׁךָ וּבְכָל מְאֹדֶךָ. וְהָיוּ הַדְּבָרִים הָאֵלֶּה אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם עַל לְבָבֶךָ. וְשִׁנַּנְתָּם לְבָנֶיךָ וְדִבַּרְתָּ בָּם בְּשִׁבְתְּךָ בְּבֵיתֶךָ וּבְלֶכְתְּךָ בַדֶּרֶךְ וּבְשָׁכְבְּךָ וּבְקוּמֶךָ. וּקְשַׁרְתָּם לְאוֹת עַל יָדֶךָ וְהָיוּ לְטֹטָפֹת בֵּין עֵינֶיךָ. וּכְתַבְתָּם עַל מְזוּזֹת בֵּיתֶךָ וּבִשְׁעָרֶיךָ. 
+\n\n
+‎וְהָיָה אִם שָׁמֹעַ תִּשְׁמְעוּ אֶל מִצְו‍ֹתַי אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם לְאַהֲבָה אֶת יְהוָה אֱלֹהֵיכֶם וּלְעָבְדוֹ בְּכָל לְבַבְכֶם וּבְכָל נַפְשְׁכֶם. וְנָתַתִּי מְטַר אַרְצְכֶם בְּעִתּוֹ יוֹרֶה וּמַלְקוֹשׁ וְאָסַפְתָּ דְגָנֶךָ וְתִירֹשְׁךָ וְיִצְהָרֶךָ. וְנָתַתִּי עֵשֶׂב בְּשָׂדְךָ לִבְהֶמְתֶּךָ וְאָכַלְתָּ וְשָׂבָעְתָּ. הִשָּׁמְרוּ לָכֶם פֶּן יִפְתֶּה לְבַבְכֶם וְסַרְתֶּם וַעֲבַדְתֶּם אֱלֹהִים אֲחֵרִים וְהִשְׁתַּחֲוִיתֶם לָהֶם. וְחָרָה אַף יְהוָה בָּכֶם וְעָצַר אֶת הַשָּׁמַיִם וְלֹא יִהְיֶה מָטָר וְהָאֲדָמָה לֹא תִתֵּן אֶת יְבוּלָהּ וַאֲבַדְתֶּם מְהֵרָה מֵעַל הָאָרֶץ הַטֹּבָה אֲשֶׁר יְהוָה נֹתֵן לָכֶם. וְשַׂמְתֶּם אֶת דְּבָרַי אֵלֶּה עַל לְבַבְכֶם וְעַל נַפְשְׁכֶם וּקְשַׁרְתֶּם אֹתָם לְאוֹת עַל יֶדְכֶם וְהָיוּ לְטוֹטָפֹת בֵּין עֵינֵיכֶם. וְלִמַּדְתֶּם אֹתָם אֶת בְּנֵיכֶם לְדַבֵּר בָּם בְּשִׁבְתְּךָ בְּבֵיתֶךָ וּבְלֶכְתְּךָ בַדֶּרֶךְ וּבְשָׁכְבְּךָ וּבְקוּמֶךָ. וּכְתַבְתָּם עַל מְזוּזוֹת בֵּיתֶךָ וּבִשְׁעָרֶיךָ. לְמַעַן יִרְבּוּ יְמֵיכֶם וִימֵי בְנֵיכֶם עַל הָאֲדָמָה אֲשֶׁר נִשְׁבַּע יְהוָה לַאֲבֹתֵיכֶם לָתֵת לָהֶם כִּימֵי הַשָּׁמַיִם עַל הָאָרֶץ. 
+\n\n
+‎וַיֹּאמֶר יְהוָה אֶל מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם וְעָשׂוּ לָהֶם צִיצִת עַל כַּנְפֵי בִגְדֵיהֶם לְדֹרֹתָם וְנָתְנוּ עַל צִיצִת הַכָּנָף פְּתִיל תְּכֵלֶת. וְהָיָה לָכֶם לְצִיצִת וּרְאִיתֶם אֹתוֹ וּזְכַרְתֶּם אֶת כָּל מִצְו‍ֹת יְהוָה וַעֲשִׂיתֶם אֹתָם וְלֹא תָתֻרוּ אַחֲרֵי לְבַבְכֶם וְאַחֲרֵי עֵינֵיכֶם אֲשֶׁר אַתֶּם זֹנִים אַחֲרֵיהֶם. לְמַעַן תִּזְכְּרוּ וַעֲשִׂיתֶם אֶת כָּל מִצְו‍ֹתָי וִהְיִיתֶם קְדֹשִׁים לֵאלֹהֵיכֶם. מא אֲנִי יְהוָה אֱלֹהֵיכֶם אֲשֶׁר הוֹצֵאתִי אֶתְכֶם מֵאֶרֶץ מִצְרַיִם לִהְיוֹת לָכֶם לֵאלֹהִים אֲנִי יְהוָה אֱלֹהֵיכֶם. 
+‎אֱמֶת</string>
+    <string name="russian_short">Борух ато Адой-ной
+Э-лойѓейну мелех ѓоойлом,
+ашер кидешону бемицвойсов
+вецивону легониах тефилин \n\n
+
+ШМА ИСРОЭЙЛ, АДОЙ-НОЙ Э-ЛОЃЭЙНУ, АДОЙ-НОЙ ЭХОД!
+(шёпотом говорят:) БОРУХ ШЕЙМ КЕВОЙД МАЛЕХУСОЙ ЛЕОЙЛОМ ВОЭД.
+ВЕОЃАВТО ЭЙС АДОЙ-НОЙ Э-ЛОЙЃЭХО, БЭХОЛ ЛЕВОВХО, УВЕХОЛ НАФШЕХО УВЕХОЛ МЭОЙДЭХО. ВЕЃОЮ ЃАДЕВОРИМ ЃОЭЙЛЭ АШЕР ОНОЙХИ МЕЦАВЕХО ЃАЁЙМ АЛ ЛЕВОВЭХО. ВЕШИНАНТОМ ЛЕВОНЭХО ВЕДИБАРТО БОМ, БЕШИВТЕХО БЕВЭЙСЭХО, УВЕЛЭХТЕХО ВАДЭРЭХ, УВЕШОХБЕХО УВЕКУМЭХО. УКЕШАРТОМ ЛЕОЙС АЛ ЙОДЭХО, ВЭЃОЮ ЛЭТОЙТОФОЙС БЭЙН ЭЙНЭХО. УХЕСАВТОМ АЛ МЕЗУЗОЙС БЭЙСЭХО УВИШЕОРЭХО.</string>
+    <string name="russian_full">Борух ато Адой-ной
+Э-лойѓейну мелех ѓоойлом,
+ашер кидешону бемицвойсов
+вецивону легониах тефилин \n\n
+
+Шма Йисроэйл Адой-ной Э-лой-hэй-ну Адой-ной эход
+Борух шейм квойд малхусой лэойлом воэд
+Вэоhавто эйс Адой-ной Э-лой-hэхо,  бэхол лэвовхо увэхол
+нафшехо увэхол мэойдэхо: Вэhойу  hадворим  hоэйлэ,  ашер онойхи
+мэцавхо  hайойм ал лэвовэхо: Вэшинантом лэвонэхо вэдибарто бом, 
+бэшивтэхо бэвэйсэхо увэлэхтэхо вадэрэх,  увэшохбэхо увэкумэхо: 
+Укшартом лэойс ал йодэхо,  вэhойу лэтойтофойс бэйн эйнэхо: 
+Ухсавтом ал мэзузойс бэйсэхо, увишъорэхо \n\n
+
+Вэhойо им шомойа тишмэу эл мицвойсай ашер онойхи мэцавэ эсхэм
+hайойм, лэаhаво эс А-дэй-ной Элой-hэйхэм улэовдой бэхол лэвавхэм увэхол
+нафшехэм:  Вэносати метар арцэхэм бэитой йойрэ умалкойш,  вэосафто
+дэгонэхо вэсиройшхо вейицhорэхо:  вэносати эйсэв бэсодхо ливhэмтэхо, 
+вэохалто вэсовото: hишомру лохэм пэн йифтэ лэвавхэм, вэсартэм ваавдэтэм
+Элойhим ахэйрим вэhиштахависэм лоhэм: Вэхоро аф Адой-ной бохэм вэоцар
+эс  hашомайим вэлой йиhье мотор вэhоадомо лой ситэн эс йевуло, ваавадтэм
+мэhэйро мэал  hоорэц  hатойво ашер А-дэй-ной нойсэн лохэм:  Вэсамтэм эс
+дворай эйлэ ал лэвавхэм вэал нафшехэм укшартэм эйсом лэойс ал йедхэм
+вэhою лэтойтофойс бэйн эйнэйхэм:  Вэлимадтэм ойсом эс бнэйхэм лэдабэйр
+бом,  бэшивтэхо бэвэйсэхо увэлэхтэхо вадэрэх увэшохбэхо увэкумэхо: 
+Ухсавтом ал мэзузойс бэйсэхо увишъорэхо:  Лэмаан йирбу йемэйхэм вимэй
+внэйхэм ал  hоадомо ашер нишба Адой-ной лаавойсэйхэм лосэйс лоhэм, 
+кимэй hашомайим ал hоорэц: \n\n
+
+Вайоймэр Адой-ной эл Мойшэ лэймэйр: Дабэйр эл бнэй Йисроэйл
+вэомарто алэйhэм вэосу лоhэм цицис ал канфэй вигдэйhэм
+лэдойройсом,  вэносну ал цицис  hаконоф,  псил тхэйлэс:  Вэhойо
+лохэм лэцицис,  уръеисэм,  ойсэй,  узхартэм,  эс кол мицвойс А-дэй-
+ной,  ваасисэм,  ойсом,  вэлой сосуру ахарэй лэвавхэм вэахарэй
+эйнэйхэм ашер атэм зойним ахарэйhэм: Лэмаан тизкэру ваасисэм эс
+кол мицвойсой,  виhъйисэм кдойшим лЭй-лой-hэй-хэм:  Ани Адой-
+ной Э-лой-hэйхэм ашер  hойцэйси эсхэм мэйэрэц мицрайим
+лиhьйойс лохэм лЭлой-hим, ани Адой-ной Элой-hэй-хэм</string>
+    <string name="about_saber"><![CDATA[<p>The SABER Team is a New York based web design studio operating in NYC, New Jersey, Los Angeles and Sydney Australia. Our team of talented web designers create professional websites that are affordable, attractive, user friendly, compatible with social networks and chic.</p>We create websites, Apple apps, Web banners, and fliers. To see a video about us click this link: ]]>&lt;a href="http://www.youtube.com/watch?v=frsop0oYUt0">Video&lt;/a><![CDATA[ <p>This app was sponsored in loving memory of Avraham Ben Aharon.To see our prices go to our website:</p>]]> <p>&lt;a href="http://www.saberdesign.info/?page_id=740">www.thesaberteam.com&lt;/a></p></string>
+
+    <string-array name="list_item_strings">
+
+        <!-- This is the list list of text data on the home page -->
+        <!-- There is 8 here. THIS NUMBER MUST MATCH list_item_images -->
+        <item>About Tefillin</item>
+        <item>English - On the go</item>
+        <item>English - Full Version</item>
+        <item>Hebrew - On the go</item>
+        <item>Hebrew - Full Version</item>
+        <item>Russian - On the go</item>
+        <item>Russian - Full Version</item>
+        <item>About the Saber Team</item>
+    </string-array>
+    <string-array name="list_item_images">
+
+        <!-- This is the list list of image names for the home page -->
+        <!-- There is 8 here. THIS NUMBER MUST MATCH list_item_data -->
+        <item>tefillin_ico</item>
+        <item>en_ico</item>
+        <item>en_ico</item>
+        <item>heb_ico</item>
+        <item>heb_ico</item>
+        <item>rus_ico</item>
+        <item>rus_ico</item>
+        <item>saber_ico</item>
+    </string-array>
+
+    <color name="gray_listview_background">#F5F5F5</color>
+
+</resources>
